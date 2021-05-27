@@ -1,0 +1,1 @@
+[{"domain": "47.110.145.204", "expiry": 1624689943, "httpOnly": false, "name": "satoken", "path": "/", "secure": false, "value": "e5297298-1b7c-44dc-9be1-06268345e25c"}, {"domain": "47.110.145.204", "httpOnly": true, "name": "SESSION", "path": "/", "sameSite": "Lax", "secure": false, "value": "YmE4ZGY3MTItYWY1OS00YmFlLWE0OGItOGMzZjhhNDI3N2Zj"}]
